@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Git-DonHub
 - 👀 I’m interested in being a Cyber Secuirty Analyst 
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Cyber Security and how to use Python as a programming language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
